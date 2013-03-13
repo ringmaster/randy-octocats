@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.habariproject.org/Pluggable-0.9.xsd">
+  <name>Randy Octocats</name>
+  <license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+  <url>http://habariproject.org/</url>
+  <author url="http://habariproject.org/">The Habari Community</author>
+  <version>1.0</version>
+  <guid>d6b0c10e-7884-4815-a140-072b2166c6c5</guid>
+  <description><![CDATA[It puts its tentacles all over you.]]></description>
+  <copyright>2013</copyright>
+</pluggable>
